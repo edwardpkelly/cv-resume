@@ -1,0 +1,13 @@
+current directory: /Users/edkelly/Downloads/resume-master/_vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+/Users/edkelly/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/edkelly/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190724-37419-15zjppw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/edkelly/Downloads/resume-master/_vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/edkelly/Downloads/resume-master/_vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/edkelly/Downloads/resume-master/_vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
