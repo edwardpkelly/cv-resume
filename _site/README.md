@@ -1,8 +1,13 @@
-# resume-template
+# cv-resume
+Professional Resume of Edward P. Kelly
+
+Cloned from and based on:
+## resume-template
+[https://github.com/aboutte/resume]
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
-# Running locally
+## Running locally
 
 To test locally, run the following in your terminal:
 
@@ -12,7 +17,7 @@ To test locally, run the following in your terminal:
 3. Open your browser to `localhost:4000`
 4. Spell check `lynx -dump http://localhost:4000 | grep -v -E 'http|tel:|mailto' | aspell --add-extra-dicts=./resume.pws list`
 
-# Generating new PDF
+## Generating new PDF
 
 1. Open FireFox
 2. Browse to `localhost:4000`

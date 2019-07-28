@@ -126,6 +126,19 @@
   &.not-looking { width: 400px; }
 }
 
+.contact-button-email {
+  @include media_larger_than_mobile {
+    width: 300px; 
+    float: left;
+  }
+}
+
+.contact-button-download {
+  @include media_larger_than_mobile {
+    margin-left: 320px;
+  }
+}
+
 .two-columns {
   -webkit-column-count: 2;
   -moz-column-count: 2;
@@ -219,6 +232,11 @@
     margin-bottom: 1rem;
     h2 { font-size: 1.2rem; line-height: 1.5rem; }
   }
+
+  .executive-summary {
+    font-size: 0.89rem !important; line-height: 1.15rem !important;
+  }
+
   .content-section {
     margin: 0 0 1rem;
     .resume-item { margin-bottom: 1rem; }
